@@ -42,6 +42,7 @@ Understand the principles of Object-Oriented Programming (OOPs) with Java code e
 Contributions to this repository are more than welcome! If you have any improvements, bug fixes, or new code samples to add, please feel free to open an issue or submit a pull request.
 
 **Contact**
+
 If you have any questions, suggestions, or just want to connect, feel free to reach out to me at manikanth18100@protonmail.com.
 
 Join our Java community and embark on a journey of continuous learning, collaboration, and growth in the exciting world of Core Java! Don't forget to ⭐️Star⭐️ this repository to show your support and spread the Java love. Happy coding! 😄👨‍💻
